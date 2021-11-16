@@ -15,6 +15,7 @@ You can get it running in a few easy steps:
 * Send the URL that you get at the above step to your friend
 
 I've created the JSON file for easy and quick customizability. If you want to do more customizing, simply edit the HTML file. But in that case, leave the JSON fields empty since it overwrites the HTML. Please note that I've created this page in a hurry and it comes with no warranty, so check yourself before sending it to your friend.
+alibaba
 
 I've used plain HTML, CSS and JavaScript with [GSAP](https://greensock.com/gsap) for animations.
 
